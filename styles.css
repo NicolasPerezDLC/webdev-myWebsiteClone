@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+nav {
+    background-color: #100806;
+    vertical-align: middle;
+    width: 100vw;
+    height: 25.953;
+    padding: 23px 0px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#one {
+    display: inline;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 1em;
+}
+
+#two {
+    display: inline;
+    font-family: Source Code Pro;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 1em;
+}
+
+.home {
+    color: #9A7032;
+    display: inline;
+    text-transform: capitalize;
+    padding: 20px 12px;
+}
+
+.nd {
+    display: inline;
+    text-transform: capitalize;
+    color: white;
+    padding: 20px 12px;
+}
+
+.dog {
+    width: 140px;
+    max-width: 140px;
+    height: auto;
+}
