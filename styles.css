@@ -251,7 +251,7 @@ nav {
 
 #hero4 {
     width: 100%;
-    height: 500px;
+    height: 550px;
     background-repeat: no-repeat;
     background-size: cover;    
     background-image: url(Images/black&white3.jpg);
@@ -269,19 +269,39 @@ nav {
     vertical-align: middle;    
 }
 
-#tour1 {
+#Tampa {
     text-transform: uppercase;
     color: white;
     font-size: 14px;
     display: inline-block;
-    padding: 120px 0px 10px 400px;
+    padding: 120px 0px 10px 500px;
     text-align: center;
-    letter-spacing: .08em; 
-
+    letter-spacing: .08em;
 }
 
-#tour2 {
-    padding: 10px 0px 0px 400px;
+#Mexico {
+    text-transform: uppercase;
+    color: white;
+    font-size: 14px;
+    display: inline-block;
+    padding: 0px 0px 10px 500px;
+    text-align: center;
+    letter-spacing: .08em;
+}
+
+#Innings {
+    text-transform: uppercase;
+    color: white;
+    font-size: 14px;
+    display: inline-block;
+    padding: 0px 0px 10px 500px;
+    text-align: center;
+    letter-spacing: .08em;
+}
+
+
+.y {
+    padding: 10px 0px 50px 0px;
     text-transform: uppercase;
     color: white;
     font-size: 14px;
@@ -290,61 +310,7 @@ nav {
     letter-spacing: .08em;
 }
 
-#tour3 {
-    padding: 10px 0px 0px 400px;
-    padding: 10px 0px 0px 400px;
-    text-transform: uppercase;
-    color: white;
-    font-size: 14px;
-    display: inline-block;
-    text-align: center;
-    letter-spacing: .08em;
-}
-
-#tour4 {
-    padding: 10px 0px 0px 400px;
-    padding: 10px 0px 0px 400px;
-    text-transform: uppercase;
-    color: white;
-    font-size: 14px;
-    display: inline-block;
-    text-align: center;
-    letter-spacing: .08em;
-}
-
-.Date {
-    text-transform: uppercase;
-    color: white;
-    font-size: 14px;
-    display: inline-block;
-    padding: 7px 12px 7px 12px;
-    text-align: center;
-    letter-spacing: .08em; 
-
-}
-
-.venue {
-    text-transform: uppercase;
-    color: white;
-    font-size: 14px;
-    display: inline-block;
-    padding: 7px 12px 7px 12px;
-    text-align: center;
-    letter-spacing: .08em; 
-
-}
-
-.locations {
-    text-transform: uppercase;
-    color: white;
-    font-size: 14px;
-    display: inline-block;
-    padding: 7px 12px 7px 12px;
-    text-align: center;
-    letter-spacing: .08em; 
-
-}
-.tickets {
+.x {
     text-transform: uppercase;
     color: white;
     border-style: solid;
@@ -352,13 +318,13 @@ nav {
     border-width: 2px;
     font-size: 14px;
     display: inline-block;
-    margin: 5px;
+    margin: -1px;
     padding: 7px 12px 7px 12px;
     text-align: center;
-    letter-spacing: .08em; 
+    letter-spacing: .08em;
 }
 
-.rsvp {
+.z {
     text-transform: uppercase;
     color: white;
     border-style: solid;
@@ -366,7 +332,7 @@ nav {
     border-width: 2px;
     font-size: 14px;
     display: inline-block;
-    margin: -3.5px;
+    margin: 4px;
     padding: 7px 12px 7px 12px;
     text-align: center;
     letter-spacing: .08em;
